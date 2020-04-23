@@ -2,7 +2,7 @@
 
 This is not an officially supported Google product.
 
-![Mannequin front and side view with stacks of completed face shields](docs/images/trestle-header.png)
+![Mannequin front and side view with stacks of completed face shields](docs/images/trestle-header.jpg)
 
 This is a design for a Face Shield that is intended for medical use to address short-term medical supply shortages as a result of the COVID-19 public health emergency.
 
